@@ -1,5 +1,5 @@
 # Server Performance Stats
-roadmap.sh/projects/server-stats
+https://roadmap.sh/projects/server-stats
 A bash script to analyse basic server performance stats.  
 
 - Goal of this project is to write a script to analyse server performance stats.
