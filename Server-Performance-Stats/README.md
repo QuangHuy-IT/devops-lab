@@ -1,6 +1,6 @@
 # server-performance-stats (Linux)
 
-The project from: [roadmap.sh server-stats](https://roadmap.sh/projects/server-stats)
+The project from: https://roadmap.sh/projects/server-stats
 
 ---
 
@@ -22,4 +22,7 @@ Once the script has execution permission, you can run it using the command:
 ```
 
 ## Sample Output
+
+Here is my output:
+
 ![Sample Output](images/output.png)
